@@ -1,0 +1,14 @@
+@import "./loginComponent.css";
+@import "./signupComponent.css";
+@import "./header.css";
+@import "./dashboard.css";
+@import "./checkPaper.css";
+
+a {
+  cursor: hand !important;
+  text-decoration: None !important;
+}
+
+.contentHeight {
+  min-height: 87vh;
+}

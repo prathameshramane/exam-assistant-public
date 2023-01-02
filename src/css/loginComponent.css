@@ -1,0 +1,18 @@
+.loginBg {
+    background-color:rgba(2, 2, 2, 0.8);
+    padding: 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.loginContainerBg {
+    background-image: url(../images/LoginBackground.jpg);
+    object-fit: cover;
+    object-position: center;
+    background-size: 100%;
+}
+
+.vh100 {
+    height: 100vh;
+}
